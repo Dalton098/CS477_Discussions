@@ -1,0 +1,4 @@
+1. The author talks about how everyone has become so enthusiastic about technology that they just crave more of it instead of good technology. I think this is true because if you look at the struggles of early programmers they had to learn how to maximize the hardware they had because it was so limited in terms of powerful but today many programmers do not even think about hardware limitations.
+2. The author takes a jab at autonomous driving and states that it fundamentally does not work as well as a human brain, in reference to driving. I disagree with the author on this because the whole point of making self-driving cars is that they are better drivers than humans and significantly less like to get into an accident. Autonomous cars are able to combine information from multiple sensors to make more educated decisions than any human could ever do.
+3. 
+
