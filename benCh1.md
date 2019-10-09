@@ -1,0 +1,3 @@
+1. The fact the Beauty AI deemed dark skin as an indicator of being unhealthy or unfit was not that surprising after all we have talked about it in this class. The data and the programmers had some inherent bias that they did not realize while creating the AI and when it was launched the bias showed it self.
+2. I thought it was very interesting the author used a quote from a tech company representative that said that people that will be affected by a given program/AI should also be apart of the team developing it. This makes sense as the people that are likely to suffer or benefit from it should be able to point out flaws in the system because it is stood up.
+
