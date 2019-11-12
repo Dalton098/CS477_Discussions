@@ -1,0 +1,5 @@
+## Predicting Sentencing Paper
+
+##### Dalton Rothenberger
+
+1. I think the ethics of this paper are quite questionable. I do not think the judgement of what a sentencing should be should be left to a machine. A program that can be used to come up with prison sentencings is bound to be abused and manipulated in such a way that the general public does not notice it but benefits the people in charge. The most worry part about this paper is that in comes from China/Hong Kong where I would not be surprised if the government abused this given what they have been doing to protestors recently. I cannot speak much on the validity of the paper since I do not truly understand the concepts they used to accomplish this task. The overall idea however sounds like unreliable because the “facts” the program is fed and information it is fed to determine the sentencing could easily be manipulated or even the program itself could be made intentionally bias.
